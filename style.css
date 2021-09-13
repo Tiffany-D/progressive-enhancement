@@ -1,0 +1,29 @@
+p{
+    font-family: serif;
+    word-spacing: normal;
+    font-size: 17px;
+    color: #150050;
+}
+a{
+    display: flex;
+    justify-content: space-between;
+    line-height: 3;
+    text-decoration: none;
+    font-family: serif;
+    color: #E45826;
+}
+a:hover{
+    cursor: pointer;
+    color: #4A3933;
+    text-decoration: underline;
+}
+a:visited{
+    text-decoration: none;
+    color: #7C83FD;
+}
+table{
+    border: 1px solid #150050;
+}
+td{
+    border: 1px solid #150050;
+}
